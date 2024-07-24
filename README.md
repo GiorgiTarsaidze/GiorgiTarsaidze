@@ -21,6 +21,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiTarsaidze&theme=gotham&card_width=700&card_height=300" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiTarsaidze&theme=soft-green&card_width=700&card_height=300" alt="GitHub Streak" /></a>
   <br>
 </p>

@@ -21,7 +21,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiTarsaidze&theme=soft-green&card_width=700&card_height=300" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiTarsaidze&theme=soft-green&card_width=500&card_height=200" alt="GitHub Streak" /></a>
   <a href="https://www.codewars.com/users/GiorgiTarsaidze"><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=GiorgiTarsaidze&theme=hacker&backgroundColor=34,36,40&borderColor=255,255,255&textColor=3ddc77&primaryColor=00dc4d" alt="Codewars Streak" /></a>
   <br>
 </p>

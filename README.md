@@ -1,8 +1,26 @@
+<h1 align="center">
+  🦍 Giorgi Tarsaidze (Tarso) 🧙
+</h1>
 
-# Hi there 👋
+<p align="center">
+  I solve problems — sometimes for businesses, sometimes to keep my code from staging a rebellion. 
+  <br>
+  I also have a <a href="https://www.youtube.com/channel/UC87DudTNx-NrCgaoHHjF7jw">YouTube channel</a>, please subscribe (or don't).
+</p>
 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC87DudTNx-NrCgaoHHjF7jw">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC87DudTNx-NrCgaoHHjF7jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://github.com/GiorgiTarsaidze?tab=followers">
+    <img alt="github followers" title="Github Followers" src="https://custom-icon-badges.demolab.com/github/followers/GiorgiTarsaidze?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/GiorgiTarsaidze">
+    <img alt="github views" title="Github Profile Views" src="https://komarev.com/ghpvc/?username=GiorgiTarsaidze&style=for-the-badge"/></a>
+</p>
+<h1 align="center">
+📊 Stats
+</h1>
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/giorgi-tarsaidze-57a44a26a/)
-
-
-
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiTarsaidze&theme=gotham&card_width=700&card_height=300" alt="GitHub Streak" /></a>
+  <br>
+</p>

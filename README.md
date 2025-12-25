@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  I solve problems — sometimes for businesses, sometimes to keep my code from staging a rebellion. 
-  <br>
-  I also have a <a href="https://www.youtube.com/channel/UC87DudTNx-NrCgaoHHjF7jw">YouTube channel</a>, please subscribe (or don't).
+  I get shit done
+  <!-- <br> -->
+  <!-- I also have a <a href="https://www.youtube.com/channel/UC87DudTNx-NrCgaoHHjF7jw">YouTube channel</a>, please subscribe (or don't). -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/channel/UC87DudTNx-NrCgaoHHjF7jw">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC87DudTNx-NrCgaoHHjF7jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://github.com/GiorgiTarsaidze?tab=followers">
@@ -24,4 +24,4 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiTarsaidze&theme=soft-green&card_width=500&card_height=200" alt="GitHub Streak" /></a>
   <a href="https://www.codewars.com/users/GiorgiTarsaidze"><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=GiorgiTarsaidze&theme=hacker&backgroundColor=34,36,40&borderColor=255,255,255&textColor=3ddc77&primaryColor=00dc4d" alt="Codewars Streak" /></a>
   <br>
-</p>
+</p> -->

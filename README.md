@@ -2,8 +2,11 @@
   🦍 Giorgi Tarsaidze (Tarso) 🧙
 </h1>
 
+
+
 <p align="center">
-  I get shit done
+  I get shit done. <br>
+  Most of my recent work lives in private repositories (separate account).  
   <!-- <br> -->
   <!-- I also have a <a href="https://www.youtube.com/channel/UC87DudTNx-NrCgaoHHjF7jw">YouTube channel</a>, please subscribe (or don't). -->
 </p>
